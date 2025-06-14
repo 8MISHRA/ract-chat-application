@@ -30,7 +30,7 @@ function WelcomePage({ onStartChat }) {
         {/* Design by Raushan with Love */}
       <footer className="footer">
         <p className="designed-by">
-          Designed with <i className="fas fa-heart love-icon"></i> by Raushan & Divyansh
+          Designed with <i className="fas fa-heart love-icon"></i> by Divyansh & Raushan
         </p>
       </footer>
         <button onClick={handleStartChat} className="start-chat-button">
